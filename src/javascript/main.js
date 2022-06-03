@@ -25,7 +25,7 @@ function showProducts(products) {
         </div>
         `;
     }
-    // trả về
+    // return
     return result;
 }
 
